@@ -46,3 +46,17 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+## Run the code
+
+To run the workshop code yourself on the xDai network you will need to [sign up to Defender](https://defender.openzeppelin.com/) and [apply for mainnet access](https://openzeppelin.com/apply/), or change the code to use a public testnet.
+
+### Fork and clone the repo
+
+First fork the repository and then Git Clone your fork to your computer and install dependencies
+
+```js
+$ git clone https://github.com/Abdulbaqui07/Gasless-Uniswap.git
+$ cd Gasless-Uniswap
+$ yarn
+```
