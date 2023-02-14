@@ -1,6 +1,6 @@
 # Uniswap gasless transaction
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a Uniswap gasless transaction using Openzeppelin Defender. It comes with a main contract, a test for that contract, and a script that deploys that contract. And additional scripts to manage the relayer.
 
 ## Structure
 
