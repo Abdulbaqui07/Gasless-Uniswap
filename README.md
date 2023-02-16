@@ -38,7 +38,7 @@ PRIVATE_KEY=<Place your PRIVATE_KEY>
 TEAM_API_KEY=<Place your DEFENDER TEAM_API_KEY>
 TEAM_API_SECRET=<Place your DEFENDER TEAM_API_SECRET>
 
-## hardhat helper
+## hardhat quick helper
 
 Try running some of the following tasks:
 
